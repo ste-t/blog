@@ -25,6 +25,7 @@ description = 'Sperimentazione pratica, profondo interesse tecnico ed il desider
 
 [params]
 brand = 'Izbasa Stefan'
+images = ['images/social-default.png']
 front_page_content = ['posts']
 
 menu = [
@@ -37,3 +38,7 @@ linkedin_url = 'https://linkedin.com/in/ste-t'
 youtube_url = 'https://youtube.com/@ste.t'
 
 dark_mode = true
+
+[services]
+[services.twitter]
+card = 'summary_large_image'
