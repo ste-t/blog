@@ -1,0 +1,39 @@
+baseURL = 'https://blog.tste.dev/'
+title = 'Izbasa Stefan'
+theme = 'poison'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages.en]
+languageName = 'English'
+languageCode = 'en-US'
+contentDir = 'content/en'
+weight = 1
+
+[languages.en.params]
+description = 'Hands-on experimentation, deep technical interest, and a desire to build solutions that matter'
+
+[languages.it]
+languageName = 'Italiano'
+languageCode = 'it-IT'
+contentDir = 'content/it'
+weight = 2
+
+[languages.it.params]
+description = 'Sperimentazione pratica, profondo interesse tecnico ed il desiderio di costruire soluzioni che contano'
+
+[params]
+brand = 'Izbasa Stefan'
+front_page_content = ['posts']
+
+menu = [
+  # { Name = 'About', URL = '/about/', HasChildren = false },
+  { Name = 'Posts', URL = '/posts/', Pre = 'Recent', HasChildren = true, Limit = 5 },
+]
+
+github_url = 'https://github.com/ste-t'
+linkedin_url = 'https://linkedin.com/in/ste-t'
+youtube_url = 'https://youtube.com/@ste.t'
+
+dark_mode = true
