@@ -6,7 +6,7 @@ title = 'Creare un server email personale'
 translationKey = 'email-server'
 +++
 
-Ho posseduto il mio dominio `tste.dev` per anni e ho sempre considerato la possibilità di hostare un server email personale.
+Ho posseduto il dominio `tste.dev` per anni e ho sempre considerato la possibilità di hostare un server email personale.
 Non si tratta di un'impresa banale, ma significa avere più controllo su come i propri dati vengono immagazzinati e gestiti,
 specialmente considerando quante informazioni sensibili sono sfortunatamente trasmesse via email.
 

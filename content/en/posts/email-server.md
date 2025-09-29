@@ -6,7 +6,7 @@ title = 'Building my own email server'
 translationKey = 'email-server'
 +++
 
-I have owned my domain `tste.dev` for years now, and I've always considered hosting my own email server.
+I have owned the domain `tste.dev` for years now, and I've always considered hosting my own email server.
 It is no trivial task, but it means having better control of how my own data is stored and handled,
 especially considering how much sensitive information is unfortunately transmitted via email.
 
