@@ -15,7 +15,7 @@ This turned out to be considerably more involved than simply designing a box aro
 
 ## TLDR
 
-Jump to the [final result](#the-enclosure)\.
+Jump to the [final result](#the-enclosure).\
 Jump to the [downloads section](#downloads).
 
 ## Hardware specs
